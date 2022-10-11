@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Janne-R/Janne-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
+I'm Janne, junior front-end developer from  Bergen, Norway. 
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 Here are some ideas to get you started:
 
